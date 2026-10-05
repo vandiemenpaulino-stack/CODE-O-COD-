@@ -24,27 +24,3 @@ This is my first collection of small programs, built in **VS Code** and pushed t
 | 8 | `08_greet.sh` | 🐚 Bash | Greets you based on the time of day | `bash 08_greet.sh` |
 | 9 | `09_students.sql` | 🗄️ SQL | Creates and queries a students table | `sqlite3 < 09_students.sql` |
 | 10 | `10_profile.json` | 📦 JSON | A small profile data file | Open in VS Code |
-
-## ⚡ Quick Start
-
-```bash
-# 1. Clone this repo
-git clone https://github.com/vandiemenpaulino-stack/CODE-O-COD.git
-
-# 2. Go into the folder
-cd CODE-O-COD
-
-# 3. Try your first program
-python 01_guess_game.py
-```
-
-## 🎯 Challenges
-
-Once you've run everything, try these:
-
-- 🐍 Make the guessing game range **1 to 100** and add a "give up" option
-- 🟨 Change FizzBuzz to count to **50** and add a "Bazz" for multiples of 7
-- 🎨 Switch the page to a **dark theme** in the CSS
-- ☕ Add a Fahrenheit to Celsius option in the Java converter
-- 🗄️ Add two more students and sort them by name
-- 📦 Put your own details in `10_profile.json`

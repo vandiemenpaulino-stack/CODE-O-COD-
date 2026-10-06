@@ -1,0 +1,7 @@
+{
+  "name": "Your Name",
+  "role": "Beginner Developer",
+  "location": "Cebu City, Philippines",
+  "skills": ["Python", "JavaScript", "HTML", "CSS"],
+  "learning": true
+}
